@@ -36,13 +36,13 @@ readline.question("2) Informe um número para verificar se pertence à sequênci
 
 // 3) Análise de faturamento diário
 const faturamentoMensal = [
-  { "dia": 1, "valor": 22174.1664 },
-  { "dia": 2, "valor": 24537.6698 },
-  { "dia": 3, "valor": 26139.6134 },
+  { "dia": 1, "valor": 19174.16 },
+  { "dia": 2, "valor": 24537.60 },
+  { "dia": 3, "valor": 26139.60 },
   { "dia": 4, "valor": 0.0 },
   { "dia": 5, "valor": 0.0 },
-  { "dia": 6, "valor": 26742.6612 },
-  { "dia": 7, "valor": 0.0 }
+  { "dia": 6, "valor": 26742.50 },
+  { "dia": 7, "valor": 14399.0 }
 ];
 
 function analisarFaturamento() {
