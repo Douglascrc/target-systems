@@ -1,4 +1,4 @@
-# Desafios Target Sistems
+# Desafios Target Sistemas
 
 Este projeto foi desenvolvido com o objetivo de resolver cinco desafios de lógica, análise de dados e manipulação de strings. Ele utiliza a linguagem **Node.js** e solicita entradas do usuário para executar os desafios.
 
