@@ -12,7 +12,7 @@ Certifique-se de que você possui os seguintes itens instalados em sua máquina:
 
 Siga os passos abaixo para executar o projeto:
 
-1. **Clone o repositório ou copie o código-fonte** para um diretório local.
+1. **Clone o repositório, copie o código-fonte ou crie uma instância do codespace** para rodar o projeto.
 
 2. **Abra o terminal** e navegue até o diretório onde o arquivo do projeto está salvo.
 
